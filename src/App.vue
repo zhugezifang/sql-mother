@@ -20,8 +20,8 @@
           <a-menu-item key="/levels">关卡</a-menu-item>
           <a-menu-item key="/playground">广场</a-menu-item>
           <a-menu-item>
-            <a href="https://github.com/liyupi/sql-mother" target="_blank">
-              <github-outlined /> 代码开源
+            <a href="https://www.zgzf.online/about" target="_blank">
+              <github-outlined /> 学习交流群
             </a>
           </a-menu-item>
         </a-menu>
@@ -32,7 +32,7 @@
     </div>
     <div class="footer">
       SQL之母 - SQL 自学网站 ©2023 by
-      <a href="https://github.com/liyupi" target="_blank">程序员鱼皮</a>
+      <a href="https://www.zgzf.online/about" target="_blank">诸葛子房</a>
     </div>
     <a-back-top :style="{ right: '24px' }" />
   </div>
