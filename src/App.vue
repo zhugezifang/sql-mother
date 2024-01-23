@@ -4,7 +4,7 @@
       <a-col flex="160px" style="margin: 0 auto">
         <RouterLink to="/">
           <a-row align="middle">
-            <img src="./assets/logo.png" alt="SQL自学网站" class="logo" />
+            <!--<img src="./assets/logo.png" alt="SQL自学网站" class="logo" />-->
             <span class="title">SQL自学网站</span>
           </a-row>
         </RouterLink>
