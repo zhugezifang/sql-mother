@@ -21,7 +21,7 @@
           <a-menu-item key="/playground">广场</a-menu-item>
           <a-menu-item>
             <a href="https://www.zgzf.online/about" target="_blank">
-              学习交流群(添加微信zhugezifang001)
+              学习交流群
             </a>
           </a-menu-item>
         </a-menu>
