@@ -4,8 +4,8 @@
       <a-col flex="160px" style="margin: 0 auto">
         <RouterLink to="/">
           <a-row align="middle">
-            <img src="./assets/logo.png" alt="SQL之母" class="logo" />
-            <span class="title">SQL之母</span>
+            <img src="./assets/logo.png" alt="SQL自学网站" class="logo" />
+            <span class="title">SQL自学网站</span>
           </a-row>
         </RouterLink>
       </a-col>
@@ -21,7 +21,7 @@
           <a-menu-item key="/playground">广场</a-menu-item>
           <a-menu-item>
             <a href="https://www.zgzf.online/about" target="_blank">
-              <github-outlined /> 学习交流群
+              学习交流群(添加微信zhugezifang001)
             </a>
           </a-menu-item>
         </a-menu>
@@ -31,7 +31,7 @@
       <router-view />
     </div>
     <div class="footer">
-      SQL之母 - SQL 自学网站 ©2023 by
+      SQL 自学网站 ©2023 by
       <a href="https://www.zgzf.online/about" target="_blank">诸葛子房</a>
     </div>
     <a-back-top :style="{ right: '24px' }" />
