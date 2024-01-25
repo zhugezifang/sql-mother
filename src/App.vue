@@ -31,9 +31,7 @@
       <router-view />
     </div>
     <div class="footer">
-      SQL 自学网站 ©2023 by
-      <a href="https://www.zgzf.online/about" target="_blank">诸葛子房</a>
-      参考开源项目：<a href="https://github.com/liyupi/sql-mother" target="_blank">程序员鱼皮</a>
+      SQL 自学网站 ©2023 by <a href="https://github.com/liyupi/sql-mother" target="_blank">程序员鱼皮</a>
     </div>
     <a-back-top :style="{ right: '24px' }" />
   </div>
