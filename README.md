@@ -2,7 +2,7 @@
 
 > 纯前端实现的闯关式 SQL 自学网
 >
-> By [程序员诸葛子房](https://docs.qq.com/doc/DUFFRVWladXVjeUxW) ，一人全役
+> By [程序员鱼皮](https://docs.qq.com/doc/DUFFRVWladXVjeUxW) ，一人全役
 
 
 
